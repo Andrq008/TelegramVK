@@ -1,9 +1,9 @@
 from pyrogram import Client
 import vk_api
 
-api_id = 14576105
-api_hash = 'a8e164ef42511799656592b2bf96d87d'
-bot_token = '5374522720:AAGoNUYCEyJ-7-bSAQPT7aV_W2GWcinnkQU'
+api_id = 1..
+api_hash = ''
+bot_token = ''
 app_version="Android 8.7.4"
 device_model="LM-Q720"
 system_version="Android"
